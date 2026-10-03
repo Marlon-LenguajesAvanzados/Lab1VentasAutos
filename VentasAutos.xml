@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<concesionario nombre="AutoMotores del Valle">
+	<venta id="v101">
+		<vendedor>Mora, Andrea</vendedor>
+		<marca>Toyota</marca>
+		<modelo>Corolla</modelo>
+		<tipo>Sedán</tipo>
+		<anio>2019</anio>
+		<precio moneda="USD">18500.00</precio>
+		<fecha_venta>2024-01-15</fecha_venta>
+		<cliente>Jiménez Rojas, Luis</cliente>
+		<descripcion>Sedán automático, un solo dueño, 65 000 km, mantenimiento de agencia.</descripcion>
+	</venta>
+	<venta id="v102">
+		<vendedor>Vargas, José</vendedor>
+		<marca>Hyundai</marca>
+		<modelo>Tucson</modelo>
+		<tipo>SUV</tipo>
+		<anio>2022</anio>
+		<precio moneda="USD">32900.00</precio>
+		<fecha_venta>2024-02-03</fecha_venta>
+		<cliente>Araya Solís, María</cliente>
+		<descripcion>SUV 4x2 con cámara de retroceso y pantalla táctil, 28 000 km.</descripcion>
+	</venta>
+	<venta id="v103">
+		<vendedor>Mora, Andrea</vendedor>
+		<marca>Nissan</marca>
+		<modelo>Frontier</modelo>
+		<tipo>Pickup</tipo>
+		<anio>2021</anio>
+		<precio moneda="USD">38750.00</precio>
+		<fecha_venta>2024-02-20</fecha_venta>
+		<cliente>Quesada Mora, Esteban</cliente>
+		<descripcion>Pickup doble cabina 4x4 diésel, ideal para trabajo y finca.</descripcion>
+	</venta>
+	<venta id="v104">
+		<vendedor>Solano, Daniela</vendedor>
+		<marca>Kia</marca>
+		<modelo>Picanto</modelo>
+		<tipo>Hatchback</tipo>
+		<anio>2016</anio>
+		<precio moneda="USD">8900.00</precio>
+		<fecha_venta>2024-03-11</fecha_venta>
+		<cliente>Brenes Castillo, Sofía</cliente>
+		<descripcion>Hatchback económico, manual, bajo consumo de combustible.</descripcion>
+	</venta>
+	<venta id="v105">
+		<vendedor>Castro, Ricardo</vendedor>
+		<marca>BMW</marca>
+		<modelo>X5</modelo>
+		<tipo>SUV</tipo>
+		<anio>2024</anio>
+		<precio moneda="USD">78500.00</precio>
+		<fecha_venta>2024-04-02</fecha_venta>
+		<cliente>Monge Ulate, Fernando</cliente>
+		<descripcion>SUV de lujo, motor híbrido, asientos de cuero y techo panorámico.</descripcion>
+	</venta>
+	<venta id="v106">
+		<vendedor>Vargas, José</vendedor>
+		<marca>Suzuki</marca>
+		<modelo>Swift</modelo>
+		<tipo>Hatchback</tipo>
+		<anio>2018</anio>
+		<precio moneda="USD">11200.00</precio>
+		<fecha_venta>2024-04-18</fecha_venta>
+		<cliente>Calderón Vega, Andrés</cliente>
+		<descripcion>Hatchback compacto, automático, excelente para ciudad.</descripcion>
+	</venta>
+	<venta id="v107">
+		<vendedor>Mora, Andrea</vendedor>
+		<marca>Mitsubishi</marca>
+		<modelo>Montero Sport</modelo>
+		<tipo>SUV</tipo>
+		<anio>2020</anio>
+		<precio moneda="USD">29800.00</precio>
+		<fecha_venta>2024-05-07</fecha_venta>
+		<cliente>Salas Navarro, Gabriela</cliente>
+		<descripcion>SUV 4x4 de siete pasajeros, diésel, 52 000 km.</descripcion>
+	</venta>
+	<venta id="v108">
+		<vendedor>Solano, Daniela</vendedor>
+		<marca>Honda</marca>
+		<modelo>Civic</modelo>
+		<tipo>Sedán</tipo>
+		<anio>2023</anio>
+		<precio moneda="USD">27400.00</precio>
+		<fecha_venta>2024-05-29</fecha_venta>
+		<cliente>Rojas Alvarado, Diego</cliente>
+		<descripcion>Sedán deportivo con sensores de parqueo y Apple CarPlay.</descripcion>
+	</venta>
+	<venta id="v109">
+		<vendedor>Castro, Ricardo</vendedor>
+		<marca>Toyota</marca>
+		<modelo>Hilux</modelo>
+		<tipo>Pickup</tipo>
+		<anio>2015</anio>
+		<precio moneda="USD">21600.00</precio>
+		<fecha_venta>2024-06-14</fecha_venta>
+		<cliente>Chaves Porras, Manuel</cliente>
+		<descripcion>Pickup 4x4 diésel, 140 000 km, muy bien cuidada.</descripcion>
+	</venta>
+	<venta id="v110">
+		<vendedor>Herrera, Paula</vendedor>
+		<marca>Mazda</marca>
+		<modelo>CX-5</modelo>
+		<tipo>SUV</tipo>
+		<anio>2025</anio>
+		<precio moneda="USD">36990.00</precio>
+		<fecha_venta>2024-07-01</fecha_venta>
+		<cliente>Fallas Méndez, Valeria</cliente>
+		<descripcion>SUV 0 km con asistente de carril y frenado automático.</descripcion>
+	</venta>
+	<venta id="v111">
+		<vendedor>Vargas, José</vendedor>
+		<marca>Chevrolet</marca>
+		<modelo>Spark</modelo>
+		<tipo>Hatchback</tipo>
+		<anio>2017</anio>
+		<precio moneda="USD">9350.00</precio>
+		<fecha_venta>2024-07-22</fecha_venta>
+		<cliente>Umaña Arias, Paola</cliente>
+		<descripcion>Hatchback pequeño, manual, ideal como primer vehículo.</descripcion>
+	</venta>
+	<venta id="v112">
+		<vendedor>Herrera, Paula</vendedor>
+		<marca>Ford</marca>
+		<modelo>Ranger</modelo>
+		<tipo>Pickup</tipo>
+		<anio>2021</anio>
+		<precio moneda="USD">41200.00</precio>
+		<fecha_venta>2024-08-09</fecha_venta>
+		<cliente>Vindas Cordero, Javier</cliente>
+		<descripcion>Pickup doble cabina 4x4, transmisión automática, 35 000 km.</descripcion>
+	</venta>
+</concesionario>
